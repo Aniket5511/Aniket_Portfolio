@@ -7,7 +7,7 @@ Storage, Python, Compute Instance, Mage Data Pipeline Tool, BigQuery, and Looker
 
 • Delivered an intuitive coding interface in just 3 weeks, enabling the entire pipeline with seamless efficiency.
 
-# Tools and Technologies used: Python, Mage Data Pipeline Tool, BigQuery, and Looker
+## Tools and Technologies used: Python, Mage Data Pipeline Tool, BigQuery, and Looker
 
 ![](https://github.com/Aniket5511/Uber_Data_analytics_project/blob/master/architecture.jpg)
 
@@ -18,4 +18,4 @@ set up on GCP. Streamlined weather & air quality data collection using Python.
 • Data was stored In Mongo dB using Mongo dB sink connecter for Apache Kafka and visualization in 
 Tableau.
 
-# Tools and Technologies used: Confluent Cloud, Apache Kafka, MongoDB, GCP-VM, Python, Tableau
+## Tools and Technologies used: Confluent Cloud, Apache Kafka, MongoDB, GCP-VM, Python, Tableau
