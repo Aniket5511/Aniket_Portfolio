@@ -27,3 +27,8 @@ highlight.
 Visualization
 
 ## Tools and Technologies: Tableau, Microsoft Excel 
+
+# [Project 4: HR Analytics Dashboard](https://github.com/Aniket5511/HR_Analytics-Dashboard/tree/main)
+• Project helps an Organization to improve employee performance retentation by creating HR Analytics dashboard.
+• This Projects Identified key factors to reduce attrition , Improved the hiring process, Improved employee Experience, Made Workforce More Productive, Gained Employee trust.
+
