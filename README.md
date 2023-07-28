@@ -19,3 +19,11 @@ set up on GCP. Streamlined weather & air quality data collection using Python.
 Tableau.
 
 ## Tools and Technologies: Confluent Cloud, Apache Kafka, MongoDB, GCP-VM, Python, Tableau
+
+# Flad & Flad gmbh: Effects of Air Pollution on Health 
+• Performed Exploratory Analysis of the dataset to understand and figure out what might be interesting to 
+highlight.
+• Created a dashboard on Tableau. Key activities - Data Collection, Data Transformation, Data Analysis, 
+Visualization
+
+## Tools and Technologies: Tableau, Microsoft Excel 
